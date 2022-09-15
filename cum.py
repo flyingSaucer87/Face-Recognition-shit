@@ -10,7 +10,7 @@ import cv2
 
 
 
-#It's funny because it's cum haha lmfaoo
+#It's funny because it's cum haha lmfaoooooo
 CumCapture = cv2.VideoCapture(0)
 
 # Feeding data about the people
